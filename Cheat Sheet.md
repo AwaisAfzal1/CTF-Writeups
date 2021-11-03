@@ -44,6 +44,8 @@ When the passwords get cracked you can then go back to using `managed mode on yo
 3. fg (press enter x2)
 4. export TERM=xterm , for using `clear` command
 
+### Navigating Files
+
 ### Ping for devices on LAN
 
 1. `netdiscover -i <interface>`
